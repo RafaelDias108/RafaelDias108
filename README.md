@@ -1,10 +1,18 @@
-# Welcome ! 🖖
-<h3>I'm Rafael Dias, let me talk a little about me :D</h3><br>
+# Welcome ! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+<h3>I'm Rafael Dias, let me talk a little about me :D 🖖</h3>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelDias108&theme=blue-green)
+- 👨‍🎓 I am graduated in the course of systems analysis and development;
+- 👨‍💻 Currently I work with web development with php on the backend and vuejs on the frontend;
+- 👯 I seek to collaborate on open source projects;
+- 💕 Passion for technology and coding;
+- ✍ love for learning;
+
+#
+
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelDias108&theme=dark)
 
 <div style="display: inline-block">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaeldias108&show_icons=true&locale=en" alt="rafaeldias108" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaeldias108&show_icons=true&locale=en&theme=dark" alt="rafaeldias108" /></p>
 </div>
 
 <h3 align="left">Languages and frameworks:</h3>
@@ -37,15 +45,6 @@
 </div
 <br>
 <br>
-
-##
-### About me
-
-- 👨‍🎓 I am graduated in the course of systems analysis and development;
-- 👨‍💻 Currently I work with web development with php on the backend and vuejs on the frontend;
-- 👯 I seek to collaborate on open source projects;
-- 💕 Passion for technology and coding;
-- ✍ love for learning;
 
 ##
 ### Social Networks
