@@ -8,12 +8,8 @@
 - ✍ love for learning;
 
 #
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelDias108&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=5f585e&hide_border=true&locale=en&layout=compact" alt="RafaelDias108" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelDias108&theme=dark)
-
-<div style="display: inline-block">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaeldias108&show_icons=true&locale=en&theme=dark" alt="rafaeldias108" /></p>
-</div>
 
 <h3 align="left">Languages and frameworks:</h3>
 <div style="display: inline_block"><br>
